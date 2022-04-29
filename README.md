@@ -1,5 +1,6 @@
-# Frey-tag.at
-Feine Events in Österreich und mehr / Event calendar Austria 
+# Frey-tag.at - Feine Events in Österreich und mehr / Event calendar Austria
+
+Frey-tag.at provides users informations about events and locations in Austria.
 <br>
 <a href="www.frey-tag.at">Frey-tag.at
 
